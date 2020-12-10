@@ -9,6 +9,9 @@ Below are the days completed, alongside what programming language was used.
 * Day 3: Elixir
 * Day 4: Javascript
 * Day 5: Javascript
+* Day 6: Ruby
+* Day 7: Ruby
+* Day 8: Ruby
 
 TODO:
 
@@ -17,3 +20,20 @@ TODO:
 * Clojure
 * Golang
 * Haskell
+* Python
+
+
+
+
+
+
+
+
+
+
+* BASH
+
+
+
+
+* PHP
