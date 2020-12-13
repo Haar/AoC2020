@@ -12,6 +12,7 @@ Below are the days completed, alongside what programming language was used.
 * Day 6: Ruby
 * Day 7: Ruby
 * Day 8: Ruby
+* Day 9: Ruby
 
 TODO:
 
